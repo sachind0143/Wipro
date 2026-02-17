@@ -1,0 +1,11 @@
+package java_prj;
+
+public class MyRunnable implements Runnable{
+	public void run() {
+		System.out.println("running");
+	}
+	public static void main(String args[]) {
+		Thread t = new Thread(new MyRunnable());
+		t.start();
+	}
+}

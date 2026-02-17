@@ -1,29 +1,49 @@
-package PracticeUseCase;
-class account {
-	public int balance=10000;
+package java_prj;
 
-//		public synchronized void deposit(int amount) {
-//			balance +=amount;
-//			System.out.println("Amount deposited successfully, current balance is "+balance);
-//		}
-		 synchronized void withdrawal(int amount) {
-			if(balance >=amount) {
-				balance -=amount;
-				System.out.println("withdrawal Successfully "+amount+" current balance is "+balance);
-
-			}else {
-				System.out.println("insufficient balance"+balance);
-			}
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
+ 
+public class BankAccount implements Runnable {
+ 
+	private int balance=1000;
+	private Lock lock=new ReentrantLock();
+	
+	public void withdraw(int amount)
+	{
+		lock.lock();
+		try {
+			if(balance>=amount)
+			{
+				System.out.println(Thread.currentThread().getName() + "withdrawing " + amount);
+			
+			balance-=amount;
+			System.out.println("Remaining balance: " +balance);
 		}
 		
-}
-public class BankAccount {
-	public static void main(String[] args) {
-		account a1 = new account();
-
-		Thread t1 = new Thread(()->{a1.withdrawal(5000);});
-		Thread t2 = new Thread(()->{a1.withdrawal(5000);});
-		t1.start();
-		t2.start();
+		else
+		{
+			System.out.println(Thread.currentThread().getName() + " - Insufficient balance");
+		}
+		}	
+		finally{
+				lock.unlock();
+			}
+	
 	}
+@Override
+public void run()
+{
+	withdraw(700);
+}
+public static void main(String[] args)
+{
+BankAccount account= new BankAccount();
+ 
+Thread t1= new Thread(account, "user-1");
+Thread t2= new Thread(account, "user-2");
+ 
+t1.start();
+t2.start();
+ 
+}
 }
