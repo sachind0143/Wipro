@@ -1,0 +1,272 @@
+2026-03-02 12:39:52,718 INFO l.LoginTest [main] Test started
+2026-03-02 12:39:52,730 ERROR l.LoginTest [main] Login failed
+2026-03-02 12:44:42,526 INFO l.LoginTest [main] Test started
+2026-03-02 12:44:42,543 WARN l.LoginTest [main] Password field is slow
+2026-03-02 12:44:42,544 ERROR l.LoginTest [main] Login failed
+2026-03-02 14:21:07,491 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-03-02 14:21:07,507 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2026-03-02 14:21:07,510 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:21:07,512 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:21:07,515 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:21:07,516 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:21:07,517 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:21:07,518 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:21:07,520 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:21:07,522 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:21:07,526 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:21:07,527 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:21:07,528 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:21:07,529 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-02 14:21:07,530 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:21:07,531 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:21:07,568 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 31 ms.
+2026-03-02 14:21:07,604 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 35 ms.
+2026-03-02 14:21:07,607 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:21:07,608 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:21:07,616 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:21:07,617 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:21:07,617 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:21:07,618 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:21:07,620 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:21:07,622 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-02 14:21:07,627 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:21:07,628 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:21:07,628 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:21:07,629 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:21:07,655 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\sachin\AppData\Local\Temp\testng-eclipse-596706069\testng-customsuite.xml
+
+2026-03-02 14:21:07,711 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2026-03-02 14:21:07,880 INFO t.LoginDataTest [TestNG-PoolService-3] Thread ID: 38 - Starting browser
+2026-03-02 14:21:07,880 INFO t.LoginDataTest [TestNG-PoolService-4] Thread ID: 39 - Starting browser
+2026-03-02 14:21:07,880 INFO t.LoginDataTest [TestNG-PoolService-2] Thread ID: 37 - Starting browser
+2026-03-02 14:21:07,881 INFO t.LoginDataTest [TestNG-PoolService-1] Thread ID: 36 - Starting browser
+2026-03-02 14:21:23,172 INFO t.LoginDataTest [TestNG-PoolService-1] Navigating to SauceDemo site
+2026-03-02 14:21:23,733 INFO t.LoginDataTest [TestNG-PoolService-3] Navigating to SauceDemo site
+2026-03-02 14:21:25,310 INFO t.LoginDataTest [TestNG-PoolService-4] Navigating to SauceDemo site
+2026-03-02 14:21:25,563 INFO t.LoginDataTest [TestNG-PoolService-2] Navigating to SauceDemo site
+2026-03-02 14:21:26,299 INFO t.LoginDataTest [TestNG-PoolService-1] Thread ID: 36 - Executing login test with user: standard_user
+2026-03-02 14:21:26,327 INFO t.LoginDataTest [TestNG-PoolService-1] Entering username
+2026-03-02 14:21:26,672 INFO t.LoginDataTest [TestNG-PoolService-3] Thread ID: 38 - Executing login test with user: problem_user
+2026-03-02 14:21:26,788 INFO t.LoginDataTest [TestNG-PoolService-3] Entering username
+2026-03-02 14:21:27,971 INFO t.LoginDataTest [TestNG-PoolService-4] Thread ID: 39 - Executing login test with user: invalid_user
+2026-03-02 14:21:27,990 INFO t.LoginDataTest [TestNG-PoolService-4] Entering username
+2026-03-02 14:21:28,040 INFO t.LoginDataTest [TestNG-PoolService-2] Thread ID: 37 - Executing login test with user: locked_out_user
+2026-03-02 14:21:28,056 INFO t.LoginDataTest [TestNG-PoolService-2] Entering username
+2026-03-02 14:21:28,968 INFO t.LoginDataTest [TestNG-PoolService-1] Entering password
+2026-03-02 14:21:29,520 INFO t.LoginDataTest [TestNG-PoolService-3] Entering password
+2026-03-02 14:21:29,961 INFO t.LoginDataTest [TestNG-PoolService-4] Entering password
+2026-03-02 14:21:30,277 INFO t.LoginDataTest [TestNG-PoolService-1] Clicking login button
+2026-03-02 14:21:30,382 INFO t.LoginDataTest [TestNG-PoolService-2] Entering password
+2026-03-02 14:21:30,533 INFO t.LoginDataTest [TestNG-PoolService-3] Clicking login button
+2026-03-02 14:21:30,713 INFO t.LoginDataTest [TestNG-PoolService-4] Clicking login button
+2026-03-02 14:21:30,901 INFO t.LoginDataTest [TestNG-PoolService-2] Clicking login button
+2026-03-02 14:21:31,309 INFO t.LoginDataTest [TestNG-PoolService-1] Login status for user standard_user : true
+2026-03-02 14:21:31,323 INFO t.LoginDataTest [TestNG-PoolService-1] Assertion Passed for standard_user
+2026-03-02 14:21:31,341 INFO t.LoginDataTest [TestNG-PoolService-1] Thread ID: 36 - Closing browser
+2026-03-02 14:21:31,849 INFO t.LoginDataTest [TestNG-PoolService-3] Login status for user problem_user : true
+2026-03-02 14:21:31,853 INFO t.LoginDataTest [TestNG-PoolService-3] Assertion Passed for problem_user
+2026-03-02 14:21:31,888 INFO t.LoginDataTest [TestNG-PoolService-3] Thread ID: 38 - Closing browser
+2026-03-02 14:21:32,079 INFO t.LoginDataTest [TestNG-PoolService-4] Login status for user invalid_user : false
+2026-03-02 14:21:32,079 INFO t.LoginDataTest [TestNG-PoolService-4] Assertion Passed (Expected Failure) for invalid_user
+2026-03-02 14:21:32,101 INFO t.LoginDataTest [TestNG-PoolService-4] Thread ID: 39 - Closing browser
+2026-03-02 14:21:32,333 INFO t.LoginDataTest [TestNG-PoolService-2] Login status for user locked_out_user : false
+2026-03-02 14:21:32,334 INFO t.LoginDataTest [TestNG-PoolService-2] Assertion Passed (Expected Failure) for locked_out_user
+2026-03-02 14:21:32,343 INFO t.LoginDataTest [TestNG-PoolService-2] Thread ID: 37 - Closing browser
+2026-03-02 14:21:36,290 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@72445aba: 229 ms
+2026-03-02 14:21:36,295 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@458342d3: 4 ms
+2026-03-02 14:21:36,354 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@47dbb1e2: 59 ms
+2026-03-02 14:21:36,388 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6f603e89: 25 ms
+2026-03-02 14:21:36,411 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@277f7dd3: 22 ms
+2026-03-02 14:21:36,413 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@6c8bca63: 0 ms
+2026-03-02 14:33:25,927 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:25,970 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 27 ms.
+2026-03-02 14:33:25,974 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:25,975 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:33:25,977 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:25,980 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:33:25,985 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:25,985 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:33:25,988 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:25,989 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:33:25,991 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:25,991 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:33:25,992 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:25,993 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:33:25,994 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:25,997 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:33:26,025 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
+2026-03-02 14:33:26,063 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 36 ms.
+2026-03-02 14:33:26,067 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:26,068 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-02 14:33:26,099 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:26,102 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-02 14:33:26,103 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:26,104 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:33:26,109 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:26,114 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-02 14:33:26,127 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:26,128 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:33:26,135 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:33:26,139 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:33:26,175 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\sachin\AppData\Local\Temp\testng-eclipse--1774287985\testng-customsuite.xml
+
+2026-03-02 14:33:26,235 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
+2026-03-02 14:33:26,391 INFO t.LoginDataTest [TestNG-PoolService-1] Thread ID: {} - Starting browser
+2026-03-02 14:33:26,391 INFO t.LoginDataTest [TestNG-PoolService-2] Thread ID: {} - Starting browser
+2026-03-02 14:33:26,391 INFO t.LoginDataTest [TestNG-PoolService-3] Thread ID: {} - Starting browser
+2026-03-02 14:33:26,391 INFO t.LoginDataTest [TestNG-PoolService-4] Thread ID: {} - Starting browser
+2026-03-02 14:33:40,376 INFO t.LoginDataTest [TestNG-PoolService-3] Navigating to SauceDemo site
+2026-03-02 14:33:40,224 INFO t.LoginDataTest [TestNG-PoolService-1] Navigating to SauceDemo site
+2026-03-02 14:33:41,495 INFO t.LoginDataTest [TestNG-PoolService-4] Navigating to SauceDemo site
+2026-03-02 14:33:41,709 INFO t.LoginDataTest [TestNG-PoolService-2] Navigating to SauceDemo site
+2026-03-02 14:33:43,625 INFO t.LoginDataTest [TestNG-PoolService-3] Thread ID: problem_user - Executing login test with user: {}
+2026-03-02 14:33:43,853 INFO t.LoginDataTest [TestNG-PoolService-1] Thread ID: standard_user - Executing login test with user: {}
+2026-03-02 14:33:43,981 INFO t.LoginDataTest [TestNG-PoolService-4] Thread ID: invalid_user - Executing login test with user: {}
+2026-03-02 14:33:50,295 INFO t.LoginDataTest [TestNG-PoolService-4] Login status for user invalid_user : false
+2026-03-02 14:33:50,311 INFO t.LoginDataTest [TestNG-PoolService-4] Assertion Passed (Expected Failure) for invalid_user
+2026-03-02 14:33:50,327 INFO t.LoginDataTest [TestNG-PoolService-4] Thread ID: {} - Closing browser
+2026-03-02 14:33:50,916 INFO t.LoginDataTest [TestNG-PoolService-3] Login status for user problem_user : true
+2026-03-02 14:33:50,916 INFO t.LoginDataTest [TestNG-PoolService-1] Login status for user standard_user : true
+2026-03-02 14:33:50,917 INFO t.LoginDataTest [TestNG-PoolService-3] Assertion Passed for problem_user
+2026-03-02 14:33:50,917 INFO t.LoginDataTest [TestNG-PoolService-1] Assertion Passed for standard_user
+2026-03-02 14:33:50,951 INFO t.LoginDataTest [TestNG-PoolService-3] Thread ID: {} - Closing browser
+2026-03-02 14:33:50,981 INFO t.LoginDataTest [TestNG-PoolService-1] Thread ID: {} - Closing browser
+2026-03-02 14:33:52,110 INFO t.LoginDataTest [TestNG-PoolService-2] Thread ID: locked_out_user - Executing login test with user: {}
+2026-03-02 14:33:54,123 INFO t.LoginDataTest [TestNG-PoolService-2] Login status for user locked_out_user : false
+2026-03-02 14:33:54,123 INFO t.LoginDataTest [TestNG-PoolService-2] Assertion Passed (Expected Failure) for locked_out_user
+2026-03-02 14:33:54,138 INFO t.LoginDataTest [TestNG-PoolService-2] Thread ID: {} - Closing browser
+2026-03-02 14:33:58,732 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@36676c1a: 360 ms
+2026-03-02 14:33:58,736 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@2dbf4cbd: 3 ms
+2026-03-02 14:33:58,813 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@4c51bb7: 76 ms
+2026-03-02 14:33:58,843 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@470a696f: 29 ms
+2026-03-02 14:33:58,887 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3e8f7922: 39 ms
+2026-03-02 14:33:58,889 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@63192798: 0 ms
+2026-03-02 14:39:19,168 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-03-02 14:39:19,214 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-03-02 14:39:19,224 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:39:19,225 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:39:19,233 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:39:19,233 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:39:19,243 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:39:19,244 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:39:19,255 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:39:19,260 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:39:19,263 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:39:19,263 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:39:19,264 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:39:19,265 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:39:19,274 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:39:19,276 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:39:19,311 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 24 ms.
+2026-03-02 14:39:19,363 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 51 ms.
+2026-03-02 14:39:19,367 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:39:19,373 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-02 14:39:19,388 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-03-02 14:39:19,393 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:39:19,397 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:39:19,405 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:39:19,408 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-03-02 14:39:19,411 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-02 14:39:19,419 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:39:19,423 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:39:19,425 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:39:19,427 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:39:19,478 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\sachin\AppData\Local\Temp\testng-eclipse--2131597119\testng-customsuite.xml
+
+2026-03-02 14:39:19,589 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 34 ms.
+2026-03-02 14:39:19,834 INFO t.LoginDataTest [TestNG-PoolService-4] Thread ID: {} - Starting browser
+2026-03-02 14:39:19,834 INFO t.LoginDataTest [TestNG-PoolService-3] Thread ID: {} - Starting browser
+2026-03-02 14:39:19,835 INFO t.LoginDataTest [TestNG-PoolService-2] Thread ID: {} - Starting browser
+2026-03-02 14:39:19,834 INFO t.LoginDataTest [TestNG-PoolService-1] Thread ID: {} - Starting browser
+2026-03-02 14:39:33,547 INFO t.LoginDataTest [TestNG-PoolService-3] Navigating to SauceDemo site
+2026-03-02 14:39:33,720 INFO t.LoginDataTest [TestNG-PoolService-2] Navigating to SauceDemo site
+2026-03-02 14:39:34,054 INFO t.LoginDataTest [TestNG-PoolService-1] Navigating to SauceDemo site
+2026-03-02 14:39:34,311 INFO t.LoginDataTest [TestNG-PoolService-4] Navigating to SauceDemo site
+2026-03-02 14:39:38,091 INFO t.LoginDataTest [TestNG-PoolService-2] Thread ID: user1 - Executing login test with user: {}
+2026-03-02 14:39:38,093 INFO t.LoginDataTest [TestNG-PoolService-4] Thread ID:  - Executing login test with user: {}
+2026-03-02 14:39:38,102 INFO t.LoginDataTest [TestNG-PoolService-3] Thread ID: problem_user - Executing login test with user: {}
+2026-03-02 14:39:38,534 INFO t.LoginDataTest [TestNG-PoolService-1] Thread ID: standard_user - Executing login test with user: {}
+2026-03-02 14:39:43,436 INFO t.LoginDataTest [TestNG-PoolService-3] Login status for user problem_user : false
+2026-03-02 14:39:43,650 INFO t.LoginDataTest [TestNG-PoolService-3] Thread ID: {} - Closing browser
+2026-03-02 14:39:43,702 INFO t.LoginDataTest [TestNG-PoolService-4] Login status for user  : false
+2026-03-02 14:39:43,703 INFO t.LoginDataTest [TestNG-PoolService-4] Assertion Passed (Expected Failure) for 
+2026-03-02 14:39:43,743 INFO t.LoginDataTest [TestNG-PoolService-4] Thread ID: {} - Closing browser
+2026-03-02 14:39:44,154 INFO t.LoginDataTest [TestNG-PoolService-2] Login status for user user1 : false
+2026-03-02 14:39:44,155 INFO t.LoginDataTest [TestNG-PoolService-2] Assertion Passed (Expected Failure) for user1
+2026-03-02 14:39:44,168 INFO t.LoginDataTest [TestNG-PoolService-2] Thread ID: {} - Closing browser
+2026-03-02 14:39:44,707 INFO t.LoginDataTest [TestNG-PoolService-1] Login status for user standard_user : true
+2026-03-02 14:39:44,709 INFO t.LoginDataTest [TestNG-PoolService-1] Assertion Passed for standard_user
+2026-03-02 14:39:44,740 INFO t.LoginDataTest [TestNG-PoolService-1] Thread ID: {} - Closing browser
+2026-03-02 14:39:51,178 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@77602954: 594 ms
+2026-03-02 14:39:51,264 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@4bf3798b: 85 ms
+2026-03-02 14:39:51,360 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@1cd201a8: 94 ms
+2026-03-02 14:39:51,420 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4ae33a11: 58 ms
+2026-03-02 14:39:51,455 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2a3591c5: 32 ms
+2026-03-02 14:39:51,457 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@34a75079: 0 ms
+2026-03-02 14:47:57,042 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2026-03-02 14:47:57,094 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-03-02 14:47:57,105 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:47:57,109 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:47:57,121 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:47:57,122 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:47:57,142 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:47:57,155 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-02 14:47:57,160 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:47:57,177 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:47:57,195 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:47:57,197 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:47:57,200 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:47:57,204 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:47:57,213 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:47:57,239 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:47:57,272 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 16 ms.
+2026-03-02 14:47:57,316 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 42 ms.
+2026-03-02 14:47:57,321 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-03-02 14:47:57,324 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:47:57,348 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:47:57,351 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:47:57,352 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:47:57,354 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:47:57,365 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-03-02 14:47:57,373 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-02 14:47:57,391 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:47:57,392 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:47:57,395 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-02 14:47:57,401 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-02 14:47:57,471 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\sachin\AppData\Local\Temp\testng-eclipse-1459211291\testng-customsuite.xml
+
+2026-03-02 14:47:57,547 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+2026-03-02 14:47:57,732 INFO t.LoginDataTest [TestNG-PoolService-4] Thread ID: {} - Starting browser
+2026-03-02 14:47:57,731 INFO t.LoginDataTest [TestNG-PoolService-1] Thread ID: {} - Starting browser
+2026-03-02 14:47:57,731 INFO t.LoginDataTest [TestNG-PoolService-3] Thread ID: {} - Starting browser
+2026-03-02 14:47:57,734 INFO t.LoginDataTest [TestNG-PoolService-2] Thread ID: {} - Starting browser
+2026-03-02 14:48:11,190 INFO t.LoginDataTest [TestNG-PoolService-1] Navigating to SauceDemo site
+2026-03-02 14:48:11,474 INFO t.LoginDataTest [TestNG-PoolService-3] Navigating to SauceDemo site
+2026-03-02 14:48:12,304 INFO t.LoginDataTest [TestNG-PoolService-4] Navigating to SauceDemo site
+2026-03-02 14:48:14,929 INFO t.LoginDataTest [TestNG-PoolService-2] Navigating to SauceDemo site
+2026-03-02 14:48:15,994 INFO t.LoginDataTest [TestNG-PoolService-3] Thread ID: problem_user - Executing login test with user: {}
+2026-03-02 14:48:16,219 INFO t.LoginDataTest [TestNG-PoolService-1] Thread ID: standard_user - Executing login test with user: {}
+2026-03-02 14:48:16,672 INFO t.LoginDataTest [TestNG-PoolService-4] Thread ID:  - Executing login test with user: {}
+2026-03-02 14:48:18,182 INFO t.LoginDataTest [TestNG-PoolService-2] Thread ID: user1 - Executing login test with user: {}
+2026-03-02 14:48:22,848 INFO t.LoginDataTest [TestNG-PoolService-4] Login status for user  : false
+2026-03-02 14:48:23,124 INFO t.LoginDataTest [TestNG-PoolService-4] Assertion Passed (Expected Failure) for 
+2026-03-02 14:48:23,280 INFO t.LoginDataTest [TestNG-PoolService-4] Thread ID: {} - Closing browser
+2026-03-02 14:48:23,697 INFO t.LoginDataTest [TestNG-PoolService-3] Login status for user problem_user : false
+2026-03-02 14:48:23,698 INFO t.LoginDataTest [TestNG-PoolService-3] Assertion Passed (Expected Failure) for problem_user
+2026-03-02 14:48:23,726 INFO t.LoginDataTest [TestNG-PoolService-3] Thread ID: {} - Closing browser
+2026-03-02 14:48:23,733 INFO t.LoginDataTest [TestNG-PoolService-1] Login status for user standard_user : true
+2026-03-02 14:48:23,735 INFO t.LoginDataTest [TestNG-PoolService-1] Assertion Passed for standard_user
+2026-03-02 14:48:23,942 INFO t.LoginDataTest [TestNG-PoolService-1] Thread ID: {} - Closing browser
+2026-03-02 14:48:24,222 INFO t.LoginDataTest [TestNG-PoolService-2] Login status for user user1 : false
+2026-03-02 14:48:24,223 INFO t.LoginDataTest [TestNG-PoolService-2] Assertion Passed (Expected Failure) for user1
+2026-03-02 14:48:24,240 INFO t.LoginDataTest [TestNG-PoolService-2] Thread ID: {} - Closing browser
+2026-03-02 14:48:27,773 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@5ef0d29e: 306 ms
+2026-03-02 14:48:27,780 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@3ce3db41: 5 ms
+2026-03-02 14:48:27,848 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@4ba534b0: 66 ms
+2026-03-02 14:48:27,893 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@419a20a6: 43 ms
+2026-03-02 14:48:27,924 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4bf3798b: 29 ms
+2026-03-02 14:48:27,924 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@58670130: 0 ms
